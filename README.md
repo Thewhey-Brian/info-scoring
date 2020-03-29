@@ -1,2 +1,4 @@
 # info-scoring
-A system to score information
+We are trying to build a system to score information.
+
+Current progress: Collecting data...
